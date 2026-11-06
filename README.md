@@ -10,10 +10,10 @@ Sampler de pads para el navegador, simplificado y en un solo archivo HTML. Está
 
 **Opción 1: abrir el archivo.** Descarga `index.html` y ábrelo con doble clic. No necesita instalación, servidor ni conexión a internet. Solo la tipografía viene de Google Fonts; sin conexión se usa la del sistema.
 
-**Opción 2: GitHub Pages.** Ve a *Settings → Pages* en este repositorio. En *Source* elige `Deploy from a branch`, luego la rama `main` y la carpeta `/ (root)`. En uno o dos minutos queda publicado en:
+**Opción 2: GitHub Pages en:
 
 ```
-https://tomascenfo.github.io/padlab/
+[PadLab](https://tomascenfo.github.io/padlab/)
 ```
 
 Navegadores probados: Chrome y Edge. También debería funcionar en Firefox y Safari en sus versiones recientes. El audio arranca con el primer toque o clic, porque así lo exigen los navegadores.
