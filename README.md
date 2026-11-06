@@ -13,7 +13,7 @@ Sampler de pads para el navegador, simplificado y en un solo archivo HTML. Está
 **Opción 2: GitHub Pages.** Ve a *Settings → Pages* en este repositorio. En *Source* elige `Deploy from a branch`, luego la rama `main` y la carpeta `/ (root)`. En uno o dos minutos queda publicado en:
 
 ```
-https://<usuario>.github.io/<repositorio>/
+https://tomascenfo.github.io/padlab/
 ```
 
 Navegadores probados: Chrome y Edge. También debería funcionar en Firefox y Safari en sus versiones recientes. El audio arranca con el primer toque o clic, porque así lo exigen los navegadores.
